@@ -124,3 +124,10 @@ img {
     font-size: 11px;
   }
 }
+
+.lyssna {
+  font-size: 30px;
+  margin: 30px;
+  background-color: rgb(0, 153, 255);
+  border-radius: 10%;
+}

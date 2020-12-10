@@ -1,0 +1,3 @@
+jQuery(document).ready(function($){
+$('header, #bttmHeader .container').transify({opacityOrig:0,opacityNew:0,percentHeight:'100%',percentWidth:'100%',fadeSpeed:200});
+});
